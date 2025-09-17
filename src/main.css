@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+.scrollList li.selected {
+       opacity: 1;
+       font-weight: bold;
+       color: black;
+       scale: 1.3;
+}
