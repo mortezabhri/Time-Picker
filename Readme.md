@@ -2,7 +2,7 @@
 
 ### Pick a time range with a cleaner design , something better than plain time input fields!
 
-[View demo](https://time-picker.mbahri.ir/)
+[View Demo](https://time-picker.mbahri.ir/)
 
 ### Select Times :
 
@@ -32,7 +32,7 @@
 
 ### Requirements
 
-- React js V16 or above
+- React js V14 or above
 - Tailwind CSS V4.x or above
 - Vite (optional) 
 
